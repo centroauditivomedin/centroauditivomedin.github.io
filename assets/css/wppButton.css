@@ -1,4 +1,4 @@
-.botao-wpp {
+#botao-wpp {
     text-decoration: none;
     color: #ffffff;
     display: inline-block;
@@ -8,13 +8,13 @@
     border-radius: 3px;
   }
   
-  .botao-wpp:hover {
+ #botao-wpp:hover {
     transition: 0.7s;
     background-color: #ffffff;
     color: #25d366;
   }
   
-  .botao-wpp:focus {
+  #botao-wpp:focus {
     background-color: darken(#25d366, 15%);
   }
 
